@@ -7,4 +7,4 @@ A simple IP Tracker for begginers!
 * git clone https://github.com/eusuntasis/IP-Tracker.git
 * sudo apt install python3
 * pip3 install -r requirements.txt
-* py ip-locator.py
+* py ip.py
