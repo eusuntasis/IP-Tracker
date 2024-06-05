@@ -10,7 +10,7 @@ print(""""
                                                   
 ----------------------------------------------
 | Author:   | @thescriptkiddie1              |
-| Github:   | https://github.com/hxlxmjxbbxs |
+| Github:   | https://github.com/eusuntasis  |
 | Released: | 02/05/2024                     |
 ----------------------------------------------\n""")
 
