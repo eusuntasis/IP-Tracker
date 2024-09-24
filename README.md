@@ -1,5 +1,5 @@
 # IP-Tracker
-A simple IP Tracker for begginers!
+* A simple IP Tracker for begginers!
 
 # Linux
 ```
